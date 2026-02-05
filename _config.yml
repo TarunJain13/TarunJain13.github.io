@@ -1,0 +1,11 @@
+title: "Tarun Jain"
+description: "Reserve Bank of India Chair in Finance and Economics · Professor of Economics · Indian Institute of Management Ahmedabad"
+url: "https://TarunJain13.github.io"
+baseurl: ""
+
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+plugins:
+  - jekyll-include-cache
+
+minimal_mistakes_skin: "dark"
+search: true
