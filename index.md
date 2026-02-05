@@ -4,11 +4,6 @@ title: ""
 header:
   overlay_image: /assets/images/black.png
   overlay_filter: 0.65
-  actions:
-    - label: "Curriculum Vitae"
-      url: /assets/cv/JainCV.pdf
-    - label: "Photo"
-      url: /assets/images/IIMA_Portrait.jpg
 excerpt: ""
 ---
 
@@ -16,16 +11,27 @@ excerpt: ""
   <div style="flex:0 0 240px;">
     <img src="/assets/images/IIMA_Portrait.jpg" alt="Photo" style="width:240px; border-radius:6px;" />
   </div>
+
   <div style="flex:1; min-width:280px;">
     <h1 style="margin:0; font-size:3.2rem; line-height:1.05;">Tarun Jain</h1>
     <div style="height:6px; width:90px; background:#9b0f2f; margin:16px 0 18px 0;"></div>
+
     <p style="margin:0; font-size:1.1rem;">
       Reserve Bank of India Chair in Finance and Economics<br/>
       Professor of Economics<br/>
       Indian Institute of Management Ahmedabad
     </p>
+
+    <p style="margin:18px 0 0 0; font-size:1.1rem; font-weight:700;">
+      <a href="/assets/cv/JainCV.pdf" style="text-decoration:underline;">Curriculum Vitae</a>
+    </p>
+
+    <p style="margin:10px 0 0 0; font-size:1.1rem; font-weight:700;">
+      <a href="/assets/images/IIMA_Portrait.jpg" style="text-decoration:underline;">Photo</a>
+    </p>
   </div>
 </div>
+
 
 ---
 
