@@ -40,9 +40,11 @@ If you cannot access a paper, please email me at tarunj [at] iima [dot] ac [dot]
   <div style="flex:1;">
 
     <h3 style="margin:0 0 10px 0;">
-      <span style="color:#9b0f2f; text-decoration:underline;">
+      <a href="https://pubsonline.informs.org/doi/full/10.1287/isre.2019.0416"
+         target="_blank"
+         style="color:#9b0f2f; text-decoration:underline;">
         Peer influence and IT career choice
-      </span>
+      </a>
     </h3>
 
     <p style="margin:0 0 12px 0; font-size:1.05rem;">
@@ -68,11 +70,70 @@ If you cannot access a paper, please email me at tarunj [at] iima [dot] ac [dot]
     </p>
 
     <ul style="margin-top:12px;">
-      <li><a href="#" target="_blank">IIMA Research Spotlight</a></li>
+      <li><a href="https://www.youtube.com/watch?v=RfPcjnjnyLs" target="_blank">
+          IIMA Research Spotlight
+        </a></li>
     </ul>
 
   </div>
 </div>
+
+<div style="display:flex; gap:28px; align-items:flex-start; margin-top:36px;">
+
+  <!-- LEFT: Journal cover -->
+  <div style="flex:0 0 140px;">
+    <img src="/assets/images/jae cover.jpg"
+         alt="Journal of Asian Economics"
+         style="width:140px; border:1px solid #ddd;" />
+  </div>
+
+  <!-- RIGHT: Paper details -->
+  <div style="flex:1;">
+
+    <h3 style="margin:0 0 10px 0;">
+      <a href="https://www.sciencedirect.com/science/article/pii/S104900782300009X"
+         target="_blank"
+         style="color:#9b0f2f; text-decoration:underline;">
+        Lights out? COVID-19 containment policies and economic activity
+      </a>
+    </h3>
+
+    <p style="margin:0 0 12px 0; font-size:1.05rem;">
+      <strong>Journal of Asian Economics</strong>.
+      85, Article 101589, 2023, with Robert C. M. Beyer and Sonalika Sinha.
+      <a href="https://drive.google.com/file/d/19hU7XCW0sBsd5GnDEO4cGB598eds9yOO/view?usp=share_link" target="_blank">Pre-print</a>
+    </p>
+
+    <p style="margin:0; line-height:1.6;">
+      This paper estimates how strongly COVID-19 containment policies have impacted
+      aggregate economic activity. Using a difference-in-differences methodology, we
+      analyze how containment zones of different severity across India affected
+      district-level nighttime light intensity, as well as household income and
+      consumption. From May to July 2020, nighttime light intensity was 9.1% lower in
+      districts with the most severe restrictions compared with districts with the
+      least severe restrictions, implying GDP losses of between 5.8% and 6.6%.
+      Effects were largest during the graded lockdown in May and tapered thereafter.
+      Stricter containment measures had larger impacts in districts with higher
+      population density, older residents, and greater services employment.
+    </p>
+
+    <ul style="margin-top:12px;">
+      <li>
+         Summary on <a href="https://blogs.worldbank.org/developmenttalk/lights-out-covid-19-containment-policies-and-economic-activity" target="_blank">
+           World Bank Let’s Talk Development</a> blog
+  
+      </li>
+      <li>
+         <a href="https://drive.google.com/file/d/15CQhu3_Se3qsx_jyAoIJyY2Xl0LcAmRB/view?usp=sharing" target="_blank">Best Paper Award (3rd Prize), 19th Macroeconomics and Finance Conference, IGIDR Mumbai</a>
+      </li>
+      <li>
+        <a href="https://www.sonalikasinha.com/datasets" target="_blank">Data for paper</a>
+      </li>
+    </ul>
+
+  </div>
+</div>
+
 
 ---
 
