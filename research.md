@@ -809,7 +809,7 @@ This paper examines the effectiveness of using asymmetric liability to combat ha
           India Together</a>, <a href="https://www.pressreader.com/india/deccan-chronicle/20140123/282153584146432" target="_blank">
           Deccan Chronicle</a>, <a href="http://www.thehindubusinessline.com/economy/legal-immunity-to-bribegivers-will-reduce-corruption-isb-study/article5620572.ece" target="_blank">
           Hindu Business Line</a>, and <a href="https://blogs.timesofindia.indiatimes.com/law-street/rescue-us-from-corruption-amen/" target="_blank">
-          Economic Times</a>, 
+          Economic Times</a>
         </li>
     </ul>
 
@@ -821,7 +821,7 @@ This paper examines the effectiveness of using asymmetric liability to combat ha
 
   <!-- LEFT: Journal cover -->
   <div style="flex:0 0 140px;">
-    <img src="/assets/images/jhr cover.jpg"
+    <img src="/assets/images/jhr cover.png"
          alt="Journal of Human Resources"
          style="width:140px; border:1px solid #ddd;" />
   </div>
@@ -859,7 +859,151 @@ This paper demonstrates that the social institutions of lineage maintenance, pat
   </div>
 </div>
 
+---
+## <span style="color:#9b0f2f;">Reviews and industry reports</span>
+
+
+<div style="display:flex; gap:28px; align-items:flex-start; margin-top:36px;">
+
+  <!-- LEFT: Journal cover -->
+  <div style="flex:0 0 140px;">
+    <img src="/assets/images/palgrave cover.png"
+         alt="The Palgrave Handbook of Economics and Language"
+         style="width:140px; border:1px solid #ddd;" />
+  </div>
+
+  <!-- RIGHT: Paper details -->
+  <div style="flex:1;">
+
+    <h3 style="margin:0 0 10px 0;">
+      <a href="https://link.springer.com/book/10.1007/978-3-031-88240-1"
+         target="_blank"
+         style="color:#9b0f2f; text-decoration:underline;">
+       Language diversity and economic consequences in India 
+      </a>
+    </h3>
+
+    <p style="margin:0 0 12px 0; font-size:1.05rem;">
+      <strong>The Palgrave Handbook of Economics and Language</strong>,
+     Palgrave Macmillan, 2026, Edited by S. Weber and V. Ginsburgh. 
+    </p>
+
+
+  </div>
+</div>
+
+
+
+<div style="display:flex; gap:28px; align-items:flex-start; margin-top:36px;">
+
+  <!-- LEFT: Journal cover -->
+  <div style="flex:0 0 140px;">
+    <img src="/assets/images/csf cover.png"
+         alt="Central Square Foundation"
+         style="width:140px; border:1px solid #ddd;" />
+  </div>
+
+  <!-- RIGHT: Paper details -->
+  <div style="flex:1;">
+
+    <h3 style="margin:0 0 10px 0;">
+      <a href="https://www.centralsquarefoundation.org/Understanding_EdTech_Usage_at_Home_Using_Dedicated_Devices_Part2.pdf"
+         target="_blank"
+         style="color:#9b0f2f; text-decoration:underline;">
+       Understanding EdTech usage at home using dedicated devices: Learnings from interventions deployed to encourage use of EdTech on dedicated devices
+      </a>
+    </h3>
+
+    <p style="margin:0 0 12px 0; font-size:1.05rem;">
+      <strong>Central Square Foundation</strong>,
+     2024, with Atma Dinnie Charles and Gouri Gupta. 
+    </p>
+ <ul style="margin-top:12px;">
+      <li> Press coverage in The Ken<a href="https://the-ken.com/edsetgo/bridging-the-software-and-hardware-of-indian-edtech/" target="_blank">
+          Part 1</a> and <a href="https://the-ken.com/edsetgo/edtechs-new-frontier-cant-be-all-about-the-kids/" target="_blank">
+          Part 2</a>
+        </li>
+
+    </ul>   
+
+
+  </div>
+</div>
+
+
+
+<div style="display:flex; gap:28px; align-items:flex-start; margin-top:36px;">
+
+  <!-- LEFT: Journal cover -->
+  <div style="flex:0 0 140px;">
+    <img src="/assets/images/health matters cover.png"
+         alt="health matters"
+         style="width:140px; border:1px solid #ddd;" />
+  </div>
+
+  <!-- RIGHT: Paper details -->
+  <div style="flex:1;">
+
+    <h3 style="margin:0 0 10px 0;">
+      <a href="https://global.oup.com/academic/product/india-public-finance-and-policy-report-9780190121150"
+         target="_blank"
+         style="color:#9b0f2f; text-decoration:underline;">
+       Social health insurance schemes
+      </a>
+    </h3>
+
+    <p style="margin:0 0 12px 0; font-size:1.05rem;">
+      <strong>India Public Finance and Policy Report, Oxford University Press</strong>,
+     2020, with Arjun Bedi, Arpita Chakraborty, Sisir Debnath, Anagaw Derseh Mebratie, Pradeep Panda, E. van de Poel, Wameq Raza, Frans Rutten, Zemzem Shigute, Robert Sparrow, Revathy Suryanarayana and Getnet Alemu Zewdu. Edited by J. Jalan, S. Marjit and S. Santra. 
+    </p>
+
+  </div>
+</div>
+
+
+
+<div style="display:flex; gap:28px; align-items:flex-start; margin-top:36px;">
+
+  <!-- LEFT: Journal cover -->
+  <div style="flex:0 0 140px;">
+    <img src="/assets/images/epw cover.png"
+         alt="eow"
+         style="width:140px; border:1px solid #ddd;" />
+  </div>
+
+  <!-- RIGHT: Paper details -->
+  <div style="flex:1;">
+
+    <h3 style="margin:0 0 10px 0;">
+      <a href="https://www.jstor.org/stable/25664167"
+         target="_blank"
+         style="color:#9b0f2f; text-decoration:underline;">
+       Caste, Education and the Job Market 
+      </a>
+    </h3>
+
+       <p style="margin:0 0 12px 0; font-size:1.05rem;">
+     Book review of S. Thorat and K. Newman (eds.) "Blocked by Caste: Economic Discrimination in Modern India" 
+    </p>
+
+    <p style="margin:0 0 12px 0; font-size:1.05rem;">
+      <strong>Economic and Political Weekly</strong>,
+     Feb 27, 45(9), pages 35-37, 2010. 
+    </p>
+
+  </div>
+</div>
 
 ---
+
+
+
+
+
+
+
+
+
+
 
 
