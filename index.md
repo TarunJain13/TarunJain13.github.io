@@ -4,11 +4,9 @@ title: ""
 classes: wide
 ---
 
-<div class="home-hero">
   <div style="display:flex; gap:28px; align-items:flex-start; flex-wrap:wrap; margin-top:8px;">
     <div style="flex:0 0 240px;">
       <img src="/assets/images/IIMA_Portrait.jpg" alt="Photo" style="width:240px; border-radius:6px;" />
-    </div>
 
   <div style="flex:1; min-width:280px;">
     <h1 style="margin:0; font-size:3.2rem; line-height:1.05;">Tarun Jain</h1>
