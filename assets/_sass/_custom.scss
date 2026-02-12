@@ -1,0 +1,35 @@
+/* Force site background white */
+html, body {
+  background: #ffffff !important;
+  color: #222 !important;
+}
+
+/* Ensure page container stays white */
+.initial-content,
+.page,
+.page__content,
+.layout--single,
+.layout--home,
+.layout--splash {
+  background: #ffffff !important;
+}
+
+/* Keep ONLY the hero (top banner on home) dark */
+.layout--splash .page__hero,
+.layout--home .page__hero {
+  background: #111 !important;
+  color: #fff !important;
+}
+
+/* Links readable on white pages */
+a { color: #0b5fff; }
+a:hover { text-decoration: underline; }
+
+/* Navbar white */
+.masthead {
+  background: #ffffff !important;
+  border-bottom: 1px solid #e5e5e5 !important;
+}
+.masthead a {
+  color: #222 !important;
+}
