@@ -1,7 +1,9 @@
-title: '<img src="/assets/images/iima logo.png" style="height:26px; vertical-align:middle; margin-right:8px;"> Tarun Jain'
+title: "Tarun Jain"
 description: "Reserve Bank of India Chair in Finance and Economics · Professor of Economics · Indian Institute of Management Ahmedabad"
 url: "https://TarunJain13.github.io"
 baseurl: ""
+logo: "/assets/images/iima logo.png"
+
 
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 plugins:
