@@ -10,7 +10,6 @@ layout: single
 
 <div style="display:flex; gap:28px; align-items:flex-start; margin-top:36px;">
 
-  <!-- LEFT: IIMA Case Centre logo -->
   <div style="flex:0 0 140px;">
     <img src="/assets/images/iima case centre.jpg"
          alt="IIMA Case Centre"
@@ -42,7 +41,6 @@ layout: single
 
 <div style="display:flex; gap:28px; align-items:flex-start; margin-top:36px;">
 
-  <!-- LEFT: IIMA Case Centre logo -->
   <div style="flex:0 0 140px;">
     <img src="/assets/images/iima case centre.jpg"
          alt="IIMA Case Centre"
@@ -73,7 +71,6 @@ The case analyses the impact of introducing fee caps on education services in th
 
 <div style="display:flex; gap:28px; align-items:flex-start; margin-top:36px;">
 
-  <!-- LEFT: IIMA Case Centre logo -->
   <div style="flex:0 0 140px;">
     <img src="/assets/images/iima case centre.jpg"
          alt="IIMA Case Centre"
@@ -105,7 +102,6 @@ India has the highest burden of soil-transmitted helminth infections globally, w
 
 <div style="display:flex; gap:28px; align-items:flex-start; margin-top:36px;">
 
-  <!-- LEFT: IIMA Case Centre logo -->
   <div style="flex:0 0 140px;">
     <img src="/assets/images/iima case centre.jpg"
          alt="IIMA Case Centre"
@@ -138,7 +134,6 @@ Malaria is one of the most significant public health challenges facing India and
 
 <div style="display:flex; gap:28px; align-items:flex-start; margin-top:36px;">
 
-  <!-- LEFT: IIMA Case Centre logo -->
   <div style="flex:0 0 140px;">
     <img src="/assets/images/hbs .gif"
          alt="hbs Case Centre"
@@ -169,7 +164,6 @@ Every manager faces the problem of motivating employees to show up to work, focu
 
 <div style="display:flex; gap:28px; align-items:flex-start; margin-top:36px;">
 
-  <!-- LEFT: IIMA Case Centre logo -->
   <div style="flex:0 0 140px;">
     <img src="/assets/images/hbs .gif"
          alt="hbs Case Centre"
@@ -193,13 +187,13 @@ Every manager faces the problem of motivating employees to show up to work, focu
 
     <p style="margin:0; line-height:1.6;">
 This note summarizes recent research on how information technology (such as mobile phones or internet) can be used to reduce costs associated with searching for prices, as well as the associated increases in social welfare.
+  </p>
   </div>
 </div>
 
 
 <div style="display:flex; gap:28px; align-items:flex-start; margin-top:36px;">
 
-  <!-- LEFT: IIMA Case Centre logo -->
   <div style="flex:0 0 140px;">
     <img src="/assets/images/hbs .gif"
          alt="hbs Case Centre"
@@ -213,7 +207,7 @@ This note summarizes recent research on how information technology (such as mobi
       <a href="https://hbsp.harvard.edu/product/ISB033-PDF-ENG"
          target="_blank"
          style="color:#9b0f2f; text-decoration:underline;">
-Course allocation methods 
+    Course allocation methods 
 </a>
     </h3>
 
@@ -223,13 +217,13 @@ Course allocation methods
 
     <p style="margin:0; line-height:1.6;">
 Why is allocating courses to students in universities a challenging task? How difficult is it for institutions to strike a balance between the students' preferences over courses and what they can make available given the feasibility and other constraints? What are the plausible short-term and long-term effects of this demand-supply mismatch on students' university experiences and career aspirations? What are the relative pros and cons of allocation mechanisms such as course auctions, rank-order lists and random serial dictatorship used by academic administrators? Can universities design better systems that are simpler, fairer and cannot be gamed yet put students in courses they want? This case attempts to answer these questions by primarily examining the course allocation problem as a two-sided matching issue.
+  </p>
 </div>
 </div>
 
 
 <div style="display:flex; gap:28px; align-items:flex-start; margin-top:36px;">
 
-  <!-- LEFT: IIMA Case Centre logo -->
   <div style="flex:0 0 140px;">
     <img src="/assets/images/hbs .gif"
          alt="hbs Case Centre"
@@ -253,6 +247,7 @@ A class divided
 
     <p style="margin:0; line-height:1.6;">
 Does discrimination on the basis of gender, religion or ethnic origin exist in the job market? Why do employers use these factors in hiring decisions? Is discrimination equally prevalent in different sectors and in the presence of countervailing information? Are reasons for job market discrimination justified? What are possible strategies for combating job market discrimination? This case examines these questions in the context of hiring in the entry level white collar job market in an emerging economy.
+  </p>
 </div>
 </div>
 
