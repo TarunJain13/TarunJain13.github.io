@@ -1,10 +1,7 @@
 ---
-layout: splash
-title: null
-header:
-  overlay_image: /assets/images/black.png
-  overlay_filter: 0.65
-excerpt: ""
+layout: single
+title: ""
+classes: wide
 ---
 
 <div style="display:flex; gap:28px; align-items:flex-start; flex-wrap:wrap; margin-top:8px;">
