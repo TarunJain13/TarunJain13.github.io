@@ -85,7 +85,7 @@ layout: single
       </a>
     </h3>
 
- <p style="margin:0 0 12px 0; font-size:1.05rem;">
+ <p style="margin:0 0 12px 0; font-size:0.8rem;">
       <strong>IIM Ahmedabad Case</strong> <em>IIMA/ECO366EX</em>, with Vertika Bansal, Shivam Kumar and Priyanka Sarda.
     </p>
 
