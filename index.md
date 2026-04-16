@@ -50,7 +50,7 @@ classes: wide
 
   <p>Professor Jain teaches courses on Microeconomics, Health Economics and EdTech in the MBA program at IIM Ahmedabad, as well as Organizational Economics in the PhD program. He has written several IIM Ahmedabad and Harvard Business case studies that are used by universities around the world.</p>
 </div>
-<br><br><br><br>
+<br><br>
 
 
 <h3 style="color:#9b0f2f; font-size:0.8rem; margin-bottom:8px;">
