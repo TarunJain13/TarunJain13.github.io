@@ -41,17 +41,17 @@ classes: wide
     <h1 style="margin:0; font-size:3.2rem; line-height:1.05;">Tarun Jain</h1>
     <div style="height:6px; width:90px; background:#9b0f2f; margin:16px 0 18px 0;"></div>
 
-    <p style="margin:0; font-size:1rem;">
+    <p style="margin:0; font-size:0.9rem;">
       Reserve Bank of India Chair in Finance and Economics<br/>
       Professor of Economics<br/>
       Indian Institute of Management Ahmedabad
     </p>
 
-    <p style="margin:18px 0 0 0; font-size:1rem; font-weight:700;">
+    <p style="margin:18px 0 0 0; font-size:0.9rem; font-weight:700;">
       <a href="https://www.dropbox.com/scl/fi/cpkos4s1a64hvh0tp70q3/JainCV.pdf?rlkey=tv656e0d2rkljje139pitnq83&st=vdeemz7l&dl=0" style="text-decoration:underline;">Curriculum Vitae</a>
     </p>
 
-    <p style="margin:10px 0 0 0; font-size:1rem; font-weight:700;">
+    <p style="margin:10px 0 0 0; font-size:0.9rem; font-weight:700;">
       <a href="/assets/images/IIMA_Portrait.jpg" style="text-decoration:underline;">Photo</a>
     </p>
   </div>
