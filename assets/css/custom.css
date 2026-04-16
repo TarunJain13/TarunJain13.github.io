@@ -7,3 +7,7 @@
     padding-right: 0;
   }
 }
+.page__content h2 {
+  border-bottom: none !important;
+  padding-bottom: 0 !important;
+}
