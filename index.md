@@ -4,14 +4,32 @@ title: ""
 classes: wide
 ---
 <style>
+  /* Remove all side padding/margins from the theme wrappers */
+  .page__inner-wrap,
   .page__content,
-  .page,
   #main,
-  .page__inner-wrap {
+  .page,
+  .layout--single {
     max-width: 100% !important;
     width: 100% !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
     float: none !important;
-    padding: 0 2rem !important;
+  }
+
+  /* Add comfortable reading padding back on the content itself */
+  .page__content {
+    padding-left: 2rem !important;
+    padding-right: 2rem !important;
+  }
+
+  /* Kill the grid container restriction */
+  .page__hero--overlay .page__title,
+  .initial-content,
+  .search-content {
+    max-width: 100% !important;
   }
 </style>
   <div style="display:flex; gap:28px; align-items:flex-start; flex-wrap:wrap; margin-top:8px;">
