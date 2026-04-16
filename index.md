@@ -23,17 +23,17 @@ classes: wide
     <h1 style="margin:0; font-size:3.2rem; line-height:1.05;">Tarun Jain</h1>
     <div style="height:6px; width:90px; background:#9b0f2f; margin:16px 0 18px 0;"></div>
 
-    <p style="margin:0; font-size:1.1rem;">
+    <p style="margin:0; font-size:1rem;">
       Reserve Bank of India Chair in Finance and Economics<br/>
       Professor of Economics<br/>
       Indian Institute of Management Ahmedabad
     </p>
 
-    <p style="margin:18px 0 0 0; font-size:1.1rem; font-weight:700;">
+    <p style="margin:18px 0 0 0; font-size:1rem; font-weight:700;">
       <a href="https://www.dropbox.com/scl/fi/cpkos4s1a64hvh0tp70q3/JainCV.pdf?rlkey=tv656e0d2rkljje139pitnq83&st=vdeemz7l&dl=0" style="text-decoration:underline;">Curriculum Vitae</a>
     </p>
 
-    <p style="margin:10px 0 0 0; font-size:1.1rem; font-weight:700;">
+    <p style="margin:10px 0 0 0; font-size:1rem; font-weight:700;">
       <a href="/assets/images/IIMA_Portrait.jpg" style="text-decoration:underline;">Photo</a>
     </p>
   </div>
@@ -53,9 +53,9 @@ classes: wide
 <br><br><br><br>
 
 
-<span style="color:#9b0f2f; font-weight:700;">**Contact Information**</span>
-
-- Email: tarunj [at] iima [dot] ac [dot] in
+<h3 style="color:#9b0f2f; font-size:0.8rem; margin-bottom:8px;">
+  Contact Information
+</h3>- Email: tarunj [at] iima [dot] ac [dot] in
 - Phone: +91 (79) 7152 4955
 - IIM Ahmedabad [Faculty webpage](https://iima.ac.in/faculty-research/faculty-directory/tarun-jain)
 - Office location: 54 KLMDC, IIM Ahmedabad, Dr. Vikram Sarabhai Marg, Ahmedabad GJ 380015 India
