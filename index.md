@@ -3,7 +3,11 @@ layout: single
 title: ""
 classes: wide
 ---
-
+<style>
+.page, .page__inner-wrap, .page__content, .wrapper {
+  max-width: 100% !important;
+}
+</style>
   <div style="display:flex; gap:28px; align-items:flex-start; flex-wrap:wrap; margin-top:8px;">
     <div style="flex:0 0 240px;">
       <img src="/assets/images/IIMA_Portrait.jpg" alt="Photo" style="width:240px; border-radius:6px;" />
