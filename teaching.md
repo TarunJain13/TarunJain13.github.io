@@ -34,7 +34,8 @@ layout: single
 
 ## <span style="color:#9b0f2f;">Teaching</span>
 
-## <span style="color:#9b0f2f; font-size:0.8rem;">Healthcare Management</span>
+<h2 style="color:#9b0f2f; font-size:0.8rem; border:none;">
+Healthcare Management</h2>
 
 <span style="font-size:0.8rem;">I co-chair this six-day course at IIM Ahmedabad for industry executives. The course covers the latest topics in management, aimed at the healthcare sector.</span>
 
@@ -43,7 +44,8 @@ layout: single
 
 <br>
 
-## <span style="color:#9b0f2f; font-size:0.8rem;">EdTech</span>
+<h2 style="color:#9b0f2f; font-size:0.8rem; border:none;">
+EdTech</h2>
 
 <span style="font-size:0.8rem;">The education sector is being transformed by technology. Technology has allowed new pedagogical approaches, permitted greater personalization than ever before, and facilitated delivery at unprecedented scale. Yet open questions remain about EdTech—such as who EdTech should target, what should the right technologies be, what kinds of organization forms might be appropriate, and how to finance, regulate and staff the sector. This course discusses the state of the sunrise EdTech sector in India and globally, strategies to improve the quality and reach of the sector, and what kinds of entrepreneurial and research opportunities might exist for students.</span>
 
@@ -60,7 +62,8 @@ layout: single
 
 <br>
 
-## <span style="color:#9b0f2f; font-size:0.8rem;">Information Economics</span>
+<h2 style="color:#9b0f2f; font-size:0.8rem; border:none;">
+Information Economics</h2>
 
 <span style="font-size:0.8rem;">This 20 hour, 10 session MBA elective course applies game theory and information theory to business and policy settings. Topics include asymmetric information, information search, information cascades, auctions and market design.</span>
 
@@ -81,14 +84,16 @@ layout: single
     <li>Student presentations</li>
   </ol>
 
-## <span style="color:#9b0f2f; font-size:0.8rem;">Microeconomics</span>
+<h2 style="color:#9b0f2f; font-size:0.8rem; border:none;">
+Microeconomics</h2>
 
 <span style="font-size:0.8rem;">This 25 session MBA core course introduces the principles of microeconomics and their applications, assuming students have no prior knowledge of economics.</span>
 <br>
 
 
 
-## <span style="color:#9b0f2f; font-size:0.8rem;">Organizational Economics</span>
+<h2 style="color:#9b0f2f; font-size:0.8rem; border:none;">
+Organizational Economics</h2>
 
 <span style="font-size:0.8rem;">This 20 session course is taught as an elective to PhD students from economics and other management disciplines. The course introduces the principal-agent framework and design of incentives (explicit and implicit) to increase the productivity of workers in organizations. Both theoretical and empirical literature is discussed, with a focus on open questions that students could explore as they begin dissertation writing. Prior training in PhD-level microeconomics and econometrics is assumed.</span>
 
@@ -97,12 +102,14 @@ layout: single
 <br>
 
 
-## <span style="color:#9b0f2f; font-size:0.8rem;">Health Economics</span>
+<h2 style="color:#9b0f2f; font-size:0.8rem; border:none;">
+Health Economics</h2>
 
 <span style="font-size:0.8rem;">This 15 session MBA elective uses economics lens to examine the healthcare sector, including topics such as public health, primary and tertiary care, public versus private provision of healthcare, productivity of personnel and operations, and third-party financing of healthcare provision.</span>
 <br>
 
-## <span style="color:#9b0f2f; font-size:0.8rem;">Managerial Economics</span>
+<h2 style="color:#9b0f2f; font-size:0.8rem; border:none;">
+Managerial Economics</h2>
 
 <span style="font-size:0.8rem;">This 20 hour, 10 session MBA core course introduces the principles of economics and their applications, assuming students have no prior knowledge of economics.</span>
 
@@ -112,7 +119,8 @@ layout: single
 <br>
 
 
-## <span style="color:#9b0f2f; font-size:0.8rem;">Economic Data and Program Analysis</span>
+<h2 style="color:#9b0f2f; font-size:0.8rem; border:none;">
+Economic Data and Program Analysis</h2>
 
 <span style="font-size:0.8rem;">This 10 hour, 5 session course is targeted at graduate public policy students, and introduces basic data collection and statistical analysis. Topics include primary data collection, sampling, summarizing data, and designing evaluations of public programs.</span>
 
@@ -121,7 +129,8 @@ layout: single
 <br>
 
 
-## <span style="color:#9b0f2f; font-size:0.8rem;">Links</span>
+<h2 style="color:#9b0f2f; font-size:0.8rem; border:none;">
+Links</h2>
 
 - <span style="font-size:0.8rem;">A [video about my mathematics professor Annalisa Crannell](https://www.youtube.com/watch?v=OFUfR84FmKw)</span>
 
