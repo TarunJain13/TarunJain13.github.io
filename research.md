@@ -12,7 +12,7 @@ Topics: Education, Gender, Health, Public Policy, India
 
 Public profiles: [Google Scholar](https://scholar.google.com/citations?user=T5BOHVgAAAAJ&hl=en) | [ORCID](https://orcid.org/0000-0002-2634-7614)
 
----
+
 
 ## <span style="color:#9b0f2f;">Working Papers</span>
 
@@ -21,7 +21,7 @@ Public profiles: [Google Scholar](https://scholar.google.com/citations?user=T5BO
 - Gender differences in tertiary healthcare utilization: Evidence from India, with Natasha Jha and Revathy Surya Narayana.
 - When science feels like math: Quantitative questions and the science gender gap, with Divyanshu Jain.
 
----
+
 
 ## <span style="color:#9b0f2f;">Publications</span>
 
