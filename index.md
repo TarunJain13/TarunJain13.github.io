@@ -90,7 +90,6 @@ classes: wide
 
 </div>
 
----
 <div style="margin:28px 0 0 0; font-size:0.8rem; line-height:1.7;">
    <p><strong>Tarun Jain</strong> is the Reserve Bank of India Chair Professor in Economics at the <a href="https://www.iima.ac.in/">Indian Institute of Management Ahmedabad</a>.</p>
 
