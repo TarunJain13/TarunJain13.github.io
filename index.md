@@ -4,9 +4,15 @@ title: ""
 classes: wide
 ---
 <style>
-.page, .page__inner-wrap, .page__content, .wrapper {
-  max-width: 100% !important;
-}
+  .page__content,
+  .page,
+  #main,
+  .page__inner-wrap {
+    max-width: 100% !important;
+    width: 100% !important;
+    float: none !important;
+    padding: 0 2rem !important;
+  }
 </style>
   <div style="display:flex; gap:28px; align-items:flex-start; flex-wrap:wrap; margin-top:8px;">
     <div style="flex:0 0 240px;">
