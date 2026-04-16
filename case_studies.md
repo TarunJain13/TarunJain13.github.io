@@ -1,5 +1,5 @@
 ---
-
+permalink: /case-studies/
 layout: single
 ---
 <style>
