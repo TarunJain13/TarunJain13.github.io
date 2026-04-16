@@ -1,26 +1,9 @@
-.page,
-.page__inner-wrap,
-.page__content,
-.initial-content,
-.wrapper,
-.main-content,
-.container {
-  max-width: 1400px !important;
-  width: 100% !important;
-  box-sizing: border-box;
-}
-
-.page__inner-wrap,
-.page__content,
-.main-content,
-.container {
-  padding-left: 40px !important;
-  padding-right: 40px !important;
-}
-.wide .page__inner-wrap {
-  max-width: 1400px !important;
-}
-
 .page__content {
-  max-width: 100% !important;
+  max-width: 100%;
+}
+
+.page {
+  @include breakpoint($x-large) {
+    padding-right: 0;
+  }
 }
