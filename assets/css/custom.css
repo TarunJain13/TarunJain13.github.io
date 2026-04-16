@@ -1,116 +1,26 @@
-/* ===== Global layout ===== */
-body {
-  margin: 0;
-  padding: 0;
-}
-
-.container,
+.page,
+.page__inner-wrap,
+.page__content,
+.initial-content,
+.wrapper,
 .main-content,
-.page-header {
-  width: 100%;
-  max-width: 1280px !important;
-  margin: 0 auto;
+.container {
+  max-width: 1400px !important;
+  width: 100% !important;
   box-sizing: border-box;
 }
 
+.page__inner-wrap,
+.page__content,
 .main-content,
-.page-header,
-.site-header .container {
-  padding-left: 40px;
-  padding-right: 40px;
+.container {
+  padding-left: 40px !important;
+  padding-right: 40px !important;
+}
+.wide .page__inner-wrap {
+  max-width: 1400px !important;
 }
 
-/* ===== Top navigation bar ===== */
-.site-header {
-  background: #e9f0f7;
-  border-bottom: 1px solid rgba(0, 0, 0, 0.08);
-}
-
-.site-header .container {
-  max-width: 1280px !important;
-}
-
-.site-nav {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  gap: 36px;
-  padding-top: 18px;
-  padding-bottom: 18px;
-  overflow-x: auto;
-  white-space: nowrap;
-}
-
-.nav-link {
-  color: #000000;
-  text-decoration: none;
-  font-weight: 500;
-  font-size: 18px;
-  padding: 6px 0;
-}
-
-.nav-link:hover {
-  text-decoration: underline;
-}
-
-/* ===== Page header ===== */
-.page-header {
-  padding-top: 32px;
-  padding-bottom: 24px;
-}
-
-.project-name {
-  margin: 0;
-  font-size: 42px;
-  line-height: 1.2;
-  color: #000000;
-}
-
-/* ===== Main page content ===== */
-.main-content {
-  padding-top: 24px;
-  padding-bottom: 48px;
-}
-
-.main-content h1,
-.main-content h2,
-.main-content h3 {
-  color: #000000;
-}
-
-.main-content ul {
-  padding-left: 20px;
-}
-
-.main-content li {
-  margin-bottom: 12px;
-}
-
-/* ===== Responsive ===== */
-@media (max-width: 768px) {
-  .container,
-  .main-content,
-  .page-header {
-    max-width: 100% !important;
-  }
-
-  .main-content,
-  .page-header,
-  .site-header .container {
-    padding-left: 20px;
-    padding-right: 20px;
-  }
-
-  .site-nav {
-    justify-content: flex-start;
-    gap: 20px;
-  }
-
-  .project-name {
-    font-size: 30px;
-  }
-
-  .nav-link {
-    font-size: 16px;
-  }
+.page__content {
+  max-width: 100% !important;
 }
