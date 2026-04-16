@@ -36,28 +36,28 @@ layout: single
 <h2 style="color:#9b0f2f; font-size:0.8rem; border:none;">
 Research Fields</h2>
 
-Fields: Public Economics, Labor Economics, Organizational Economics, Development Economics
+<span style="font-size:0.8rem;">Fields: Public Economics, Labor Economics, Organizational Economics, Development Economics</span>
 
-Topics: Education, Gender, Health, Public Policy, India
+<span style="font-size:0.8rem;">Topics: Education, Gender, Health, Public Policy, India</span>
 
-Public profiles: [Google Scholar](https://scholar.google.com/citations?user=T5BOHVgAAAAJ&hl=en) | [ORCID](https://orcid.org/0000-0002-2634-7614)
+<span style="font-size:0.8rem;">Public profiles: [Google Scholar](https://scholar.google.com/citations?user=T5BOHVgAAAAJ&hl=en) | [ORCID](https://orcid.org/0000-0002-2634-7614)</span>
 
 
 
 <h2 style="color:#9b0f2f; font-size:0.8rem; border:none;">
 Working Papers</h2>
 
-- [Heat stress and hospitalization in India](Heat stress and hospitalization in India), with Abhishek Dureja.
-- Gender, culture, and norms of equality, with Kalyani Chaudhuri, Lata Gangadharan and Pushkar Maitra.
-- Gender differences in tertiary healthcare utilization: Evidence from India, with Natasha Jha and Revathy Surya Narayana.
-- When science feels like math: Quantitative questions and the science gender gap, with Divyanshu Jain.
+- <span style="font-size:0.8rem;">[Heat stress and hospitalization in India](Heat stress and hospitalization in India), with Abhishek Dureja.</span>
+- <span style="font-size:0.8rem;">Gender, culture, and norms of equality, with Kalyani Chaudhuri, Lata Gangadharan and Pushkar Maitra.</span>
+- <span style="font-size:0.8rem;">Gender differences in tertiary healthcare utilization: Evidence from India, with Natasha Jha and Revathy Surya Narayana.</span>
+- <span style="font-size:0.8rem;">When science feels like math: Quantitative questions and the science gender gap, with Divyanshu Jain.</span>
 
 
 
 <h2 style="color:#9b0f2f; font-size:0.8rem; border:none;">
 Publications</h2>
 
-If you cannot access a paper, please email me at tarunj [at] iima [dot] ac [dot] in and I will send you a copy.
+<span style="font-size:0.8rem;">If you cannot access a paper, please email me at tarunj [at] iima [dot] ac [dot] in and I will send you a copy.</span>
 
 <div style="display:flex; gap:28px; align-items:flex-start; margin-top:36px;">
 
@@ -71,20 +71,20 @@ If you cannot access a paper, please email me at tarunj [at] iima [dot] ac [dot]
   <!-- RIGHT: Paper details -->
   <div style="flex:1;">
 
-    <h3 style="margin:0 0 10px 0;">
+    <h3 style="margin:0 0 10px 0; font-size:0.8rem;">
       <a href="https://pubsonline.informs.org/doi/full/10.1287/isre.2019.0416"
          target="_blank"
-         style="color:#9b0f2f; text-decoration:underline;">
+         style="color:#9b0f2f; text-decoration:underline; font-size:0.8rem;">
         Peer influence and IT career choice
       </a>
     </h3>
 
-    <p style="margin:0 0 12px 0; font-size:1.05rem;">
+    <p style="margin:0 0 12px 0; font-size:0.8rem;">
       <strong>Information Systems Research</strong>.
       35(2), pages 642–656, 2024, with Nishtha Langer.
     </p>
 
-    <p style="margin:0; line-height:1.6;">
+    <p style="margin:0; line-height:1.6;font-size:0.8rem;">
       The productivity of the Information Technology (IT) industry depends on the supply
       of high-quality human capital, especially managers who contribute to operational,
       finance, sales and marketing, and leadership roles. This study examines the influence
@@ -101,7 +101,7 @@ If you cannot access a paper, please email me at tarunj [at] iima [dot] ac [dot]
       information on the IT industry to non-IT peers.
     </p>
 
-    <ul style="margin-top:12px;">
+    <ul style="margin-top:12px; font-size:0.8rem;">
       <li><a href="https://www.youtube.com/watch?v=RfPcjnjnyLs" target="_blank">
           IIMA</a> Research Spotlight
         </li>
