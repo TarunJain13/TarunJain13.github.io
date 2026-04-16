@@ -31,7 +31,38 @@ classes: wide
   .search-content {
     max-width: 100% !important;
   }
+    /* === NEW: White background for everything except the top hero block === */
+  body {
+    background-color: #ffffff !important;
+    color: #111111 !important;
+  }
+
+  /* Keep the top profile block dark */
+  .hero-block {
+    background-color: #1a1a2e !important; /* or whatever dark color your theme uses */
+    color: #ffffff !important;
+    padding: 2rem;
+  }
+
+  /* Make sure links in the dark block stay light */
+  .hero-block a {
+    color: #4dd0c4 !important; /* teal, matching your screenshot */
+  }
+
+  /* White background for the rest of the page content */
+  #main,
+  .page__content,
+  .initial-content {
+    background-color: #ffffff !important;
+    color: #111111 !important;
+  }
+
+  /* Fix nav bar to stay dark */
+  .masthead {
+    background-color: #1a1a2e !important;
+  }
 </style>
+<div class="hero-block">
   <div style="display:flex; gap:28px; align-items:flex-start; flex-wrap:wrap; margin-top:8px;">
     <div style="flex:0 0 240px;">
       <img src="/assets/images/IIMA_Portrait.jpg" alt="Photo" style="width:240px; border-radius:6px;" />
@@ -57,6 +88,7 @@ classes: wide
   </div>
 </div>
 
+</div>
 
 ---
 <div style="margin:28px 0 0 0; font-size:0.8rem; line-height:1.7;">
