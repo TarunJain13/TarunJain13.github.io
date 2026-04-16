@@ -1,5 +1,4 @@
 ---
-title: "Research"
 permalink: /research/
 layout: single
 ---
@@ -32,7 +31,10 @@ layout: single
     max-width: 100% !important;
   }
 </style>
-## <span style="color:#9b0f2f;">Research Fields</span>
+## <span style="color:#9b0f2f;">Research</span>
+
+<h2 style="color:#9b0f2f; font-size:0.8rem; border:none;">
+Research Fields</h2>
 
 Fields: Public Economics, Labor Economics, Organizational Economics, Development Economics
 
@@ -42,7 +44,8 @@ Public profiles: [Google Scholar](https://scholar.google.com/citations?user=T5BO
 
 
 
-## <span style="color:#9b0f2f;">Working Papers</span>
+<h2 style="color:#9b0f2f; font-size:0.8rem; border:none;">
+Working Papers</h2>
 
 - [Heat stress and hospitalization in India](Heat stress and hospitalization in India), with Abhishek Dureja.
 - Gender, culture, and norms of equality, with Kalyani Chaudhuri, Lata Gangadharan and Pushkar Maitra.
@@ -51,7 +54,8 @@ Public profiles: [Google Scholar](https://scholar.google.com/citations?user=T5BO
 
 
 
-## <span style="color:#9b0f2f;">Publications</span>
+<h2 style="color:#9b0f2f; font-size:0.8rem; border:none;">
+Publications</h2>
 
 If you cannot access a paper, please email me at tarunj [at] iima [dot] ac [dot] in and I will send you a copy.
 
@@ -887,8 +891,7 @@ This paper demonstrates that the social institutions of lineage maintenance, pat
   </div>
 </div>
 
----
-## <span style="color:#9b0f2f;">Reviews and industry reports</span>
+<h2 style="color:#9b0f2f; font-size:0.8rem; border:none;">Reviews and industry reports</h2>
 
 
 <div style="display:flex; gap:28px; align-items:flex-start; margin-top:36px;">
