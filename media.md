@@ -1,5 +1,4 @@
 ---
-title: "Media"
 permalink: /media/
 layout: single
 ---
