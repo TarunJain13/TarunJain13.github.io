@@ -1,6 +1,5 @@
 ---
-title: "Case Studies"
-permalink: /case-studies/
+
 layout: single
 ---
 <style>
