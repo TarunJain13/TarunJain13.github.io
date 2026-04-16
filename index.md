@@ -71,7 +71,7 @@ classes: wide
 <br>
 
 
-<h3 style="color:#9b0f2f; font-size:0.8rem; margin-bottom:8px;">
+<h3 style="color:#9b0f2f; font-size:0.9rem; margin-bottom:8px;">
   Contact Information
 </h3>
 <ul style="font-size:0.8rem; line-height:1.6; padding-left:18px; margin-top:8px;">
@@ -93,6 +93,6 @@ classes: wide
   </li>
 </ul>
 
-<p style="font-size:0.95rem; margin-top:10px;">
+<p style="font-size:0.8rem; margin-top:10px;">
   Faculty secretary: Shreya Mehta — shreyam [at] iima [dot] ac [dot] in
 </p>
