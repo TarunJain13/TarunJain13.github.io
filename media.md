@@ -25,6 +25,25 @@ layout: single
   .search-content {
     max-width: 100% !important;
   }
+  /* === NEW: White background for everything except the top hero block === */
+  body {
+    background-color: #ffffff !important;
+    color: #111111 !important;
+  }
+
+
+  /* White background for the rest of the page content */
+  #main,
+  .page__content,
+  .initial-content {
+    background-color: #ffffff !important;
+    color: #111111 !important;
+  }
+
+  /* Fix nav bar to stay dark */
+  .masthead {
+    background-color: #1a1a2e !important;
+  }
 </style>
 
 ## <span style="color:#9b0f2f;">Media Contributions</span>
