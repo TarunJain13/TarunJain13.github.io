@@ -3,7 +3,35 @@ title: "Teaching"
 permalink: /teaching/
 layout: single
 ---
+<style>
+  /* Remove all side padding/margins from the theme wrappers */
+  .page__inner-wrap,
+  .page__content,
+  #main,
+  .page,
+  .layout--single {
+    max-width: 100% !important;
+    width: 100% !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    float: none !important;
+  }
 
+  /* Add comfortable reading padding back on the content itself */
+  .page__content {
+    padding-left: 2rem !important;
+    padding-right: 2rem !important;
+  }
+
+  /* Kill the grid container restriction */
+  .page__hero--overlay .page__title,
+  .initial-content,
+  .search-content {
+    max-width: 100% !important;
+  }
+</style>
 ## <span style="color:#9b0f2f;">Healthcare Management</span>
 
 I co-chair this six-day course at IIM Ahmedabad for industry executives. The course covers the latest topics in management, aimed at the healthcare sector.
