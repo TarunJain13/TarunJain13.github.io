@@ -66,17 +66,19 @@ layout: single
 - <span style="font-size:0.8rem;">[Video introduction](https://drive.google.com/file/d/1DDZAHJcmp0q0Er8nRPWVrUCVJU_7LeFX/view?usp=sharing)</span>
 - <span style="font-size:0.8rem;">[Veconlab online experiments](http://veconlab.econ.virginia.edu/)</span>
 - <span style="font-size:0.8rem;">Slides (2019)</span>
-> <span style="font-size:0.8rem;">1. [Revision of Game Theory](https://drive.google.com/file/d/1dgTAW7U3PlKydasxvYfI_CI5C_gydEdZ/)</span>
-> <span style="font-size:0.8rem;">2. [Hidden Information, Market Breakdown and Remedies](https://drive.google.com/file/d/1AgIWjeBItu8aYuQJdfg3nypiQCaYnn2P/view?usp=sharing)</span>
-> <span style="font-size:0.8rem;">3. [Information Acquisition](https://drive.google.com/file/d/1il7YObGlARWy8fKQljCftDZgIO9dgMed/view?usp=sharing)</span>
-> <span style="font-size:0.8rem;">4. [Information Cascades](https://drive.google.com/file/d/1SSZWJQDOd5CQAtjjlWJuWir2vdkP-MHB/view?usp=sharing)</span>
-> <span style="font-size:0.8rem;">5. [Private and Common Value Auctions](https://drive.google.com/file/d/17xYn7gUXCmi4rCu0Rr9XLRwUimeQ-UJu/view?usp=sharing)</span>
-> <span style="font-size:0.8rem;">6. [Multi-Unit (Combinatorial) Auctions](https://drive.google.com/file/d/1AX8eMx8qtdwjCNOr142ecycRwik4bBGl/view?usp=sharing)</span>
-> <span style="font-size:0.8rem;">7. [Policy Applications of Auctions](https://drive.google.com/file/d/1E9Sml28nwpND9YBWFVycHt9HWk4Ht_UB/view?usp=sharing)</span>
-> <span style="font-size:0.8rem;">8. [Economics of Online Markets](https://drive.google.com/file/d/1iUOh73RJOTksuwjYum0-qV4ztgnoIcDY/view?usp=sharing)</span>
-> <span style="font-size:0.8rem;">9. [Market Design](https://drive.google.com/file/d/1p4F6lJKgLqo86E5m12-Mpbto9Qd10a_C/view?usp=sharing)</span>
-> <span style="font-size:0.8rem;">10. Student presentations</span>
-
+ <ol style="margin-top:6px; padding-left:18px; font-size:0.8rem;">
+    <li><a href="https://drive.google.com/file/d/1dgTAW7U3PlKydasxvYfI_CI5C_gydEdZ/">Revision of Game Theory</a></li>
+    <li><a href="https://drive.google.com/file/d/1AgIWjeBItu8aYuQJdfg3nypiQCaYnn2P/view?usp=sharing">Hidden Information, Market Breakdown and Remedies</a></li>
+    <li><a href="https://drive.google.com/file/d/1il7YObGlARWy8fKQljCftDZgIO9dgMed/view?usp=sharing">Information Acquisition</a></li>
+    <li><a href="https://drive.google.com/file/d/1SSZWJQDOd5CQAtjjlWJuWir2vdkP-MHB/view?usp=sharing">Information Cascades</a></li>
+    <li><a href="https://drive.google.com/file/d/17xYn7gUXCmi4rCu0Rr9XLRwUimeQ-UJu/view?usp=sharing">Private and Common Value Auctions</a></li>
+    <li><a href="https://drive.google.com/file/d/1AX8eMx8qtdwjCNOr142ecycRwik4bBGl/view?usp=sharing">Multi-Unit (Combinatorial) Auctions</a></li>
+    <li><a href="https://drive.google.com/file/d/1E9Sml28nwpND9YBWFVycHt9HWk4Ht_UB/view?usp=sharing">Policy Applications of Auctions</a></li>
+    <li><a href="https://drive.google.com/file/d/1iUOh73RJOTksuwjYum0-qV4ztgnoIcDY/view?usp=sharing">Economics of Online Markets</a></li>
+    <li><a href="https://drive.google.com/file/d/1p4F6lJKgLqo86E5m12-Mpbto9Qd10a_C/view?usp=sharing">Market Design</a></li>
+    <li>Student presentations</li>
+  </ol>
+</li>
 
 ## <span style="color:#9b0f2f; font-size:0.8rem;">Microeconomics</span>
 
