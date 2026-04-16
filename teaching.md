@@ -51,8 +51,9 @@ layout: single
 
 <br>
 
-## <span style="color:#9b0f2f; font-size:0.8rem;">Indian Economy</span>
-
+<h2 style="color:#9b0f2f; font-size:1rem; border:none;">
+  Indian Economy
+</h2>
 <span style="font-size:0.8rem;">This is a 6 session introductory course on the vast Indian economy, covering topics that the instructor feels might be interesting to participants. We use a case-based methodology to discuss modern dilemmas that the economy faces, and debate approaches that an “economy manager” could take in improving equitable growth within the economy.</span>
 
 <br>
