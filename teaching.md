@@ -1,5 +1,4 @@
 ---
-title: "Teaching"
 permalink: /teaching/
 layout: single
 ---
@@ -32,6 +31,9 @@ layout: single
     max-width: 100% !important;
   }
 </style>
+
+## <span style="color:#9b0f2f;">Teaching</span>
+
 ## <span style="color:#9b0f2f; font-size:0.8rem;">Healthcare Management</span>
 
 <span style="font-size:0.8rem;">I co-chair this six-day course at IIM Ahmedabad for industry executives. The course covers the latest topics in management, aimed at the healthcare sector.</span>
@@ -78,7 +80,6 @@ layout: single
     <li><a href="https://drive.google.com/file/d/1p4F6lJKgLqo86E5m12-Mpbto9Qd10a_C/view?usp=sharing">Market Design</a></li>
     <li>Student presentations</li>
   </ol>
-</li>
 
 ## <span style="color:#9b0f2f; font-size:0.8rem;">Microeconomics</span>
 
