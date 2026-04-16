@@ -34,7 +34,6 @@ layout: single
 </style>
 
 ## <span style="color:#9b0f2f;">Media Contributions</span>
-<div style="font-size:0.8rem;">
 
 
 ### <span style="color:#9b0f2f; text-decoration:underline;">[Weaving through generations: Productivity gains in family-owned businesses in rural India](https://www.ideasforindia.in/topics/productivity-innovation/weaving-through-generations-productivity-gains-in-family-owned-businesses-in-rural-india.html)</span>
@@ -114,7 +113,6 @@ Hindi: [जनभाषा? मातृभाषा में पढ़ाई �
 ### <span style="color:#9b0f2f; text-decoration:underline;">[Should bribe-givers be let off?](https://www.ideasforindia.in/topics/governance/should-bribe-givers-be-let-off.html)</span>
 **Ideas for India**, March 28, 2013.
 
-</div>
 
 
 
