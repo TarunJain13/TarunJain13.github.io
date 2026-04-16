@@ -69,7 +69,7 @@ Information Economics</h2>
 - <span style="font-size:0.8rem;">[Video introduction](https://drive.google.com/file/d/1DDZAHJcmp0q0Er8nRPWVrUCVJU_7LeFX/view?usp=sharing)</span>
 - <span style="font-size:0.8rem;">[Veconlab online experiments](http://veconlab.econ.virginia.edu/)</span>
 - <span style="font-size:0.8rem;">Slides (2019)</span>
- <ol style="margin-top:10px; margin-bottom:6px; padding-left:32px; font-size:0.8rem;">
+ <ol style="margin-top:10px; margin-bottom:6px; padding-left:100px; font-size:0.8rem;">
     <li><a href="https://drive.google.com/file/d/1dgTAW7U3PlKydasxvYfI_CI5C_gydEdZ/">Revision of Game Theory</a></li>
     <li><a href="https://drive.google.com/file/d/1AgIWjeBItu8aYuQJdfg3nypiQCaYnn2P/view?usp=sharing">Hidden Information, Market Breakdown and Remedies</a></li>
     <li><a href="https://drive.google.com/file/d/1il7YObGlARWy8fKQljCftDZgIO9dgMed/view?usp=sharing">Information Acquisition</a></li>
@@ -94,7 +94,7 @@ Organizational Economics</h2>
 
 <span style="font-size:0.8rem;">This 20 session course is taught as an elective to PhD students from economics and other management disciplines. The course introduces the principal-agent framework and design of incentives (explicit and implicit) to increase the productivity of workers in organizations. Both theoretical and empirical literature is discussed, with a focus on open questions that students could explore as they begin dissertation writing. Prior training in PhD-level microeconomics and econometrics is assumed.</span>
 
-- [<span style="font-size:0.8rem;">Course outline](https://drive.google.com/file/d/1syUNvEdTlLMuC7DKQfZ9Y0AAFGJNZ9E-/view?usp=sharing)</span>
+- <span style="font-size:0.8rem;">[Course outline](https://drive.google.com/file/d/1syUNvEdTlLMuC7DKQfZ9Y0AAFGJNZ9E-/view?usp=sharing)</span>
 
 
 
