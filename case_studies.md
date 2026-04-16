@@ -30,7 +30,6 @@ layout: single
   .search-content {
     max-width: 100% !important;
   }
-</style>
 /* === NEW: White background for everything except the top hero block === */
   body {
     background-color: #ffffff !important;
