@@ -50,15 +50,31 @@ classes: wide
 
   <p>Professor Jain teaches courses on Microeconomics, Health Economics and EdTech in the MBA program at IIM Ahmedabad, as well as Organizational Economics in the PhD program. He has written several IIM Ahmedabad and Harvard Business case studies that are used by universities around the world.</p>
 </div>
-<br><br>
+<br>
 
 
 <h3 style="color:#9b0f2f; font-size:0.8rem; margin-bottom:8px;">
   Contact Information
-</h3>- Email: tarunj [at] iima [dot] ac [dot] in
-- Phone: +91 (79) 7152 4955
-- IIM Ahmedabad [Faculty webpage](https://iima.ac.in/faculty-research/faculty-directory/tarun-jain)
-- Office location: 54 KLMDC, IIM Ahmedabad, Dr. Vikram Sarabhai Marg, Ahmedabad GJ 380015 India
-- Social media: [LinkedIn](http://in.linkedin.com/in/tjain01), [X](http://twitter.com/Hyderabadi_chai)
+</h3>
+<ul style="font-size:1rem; line-height:1.6; padding-left:18px; margin-top:8px;">
+  <li>Email: tarunj [at] iima [dot] ac [dot] in</li>
+  <li>Phone: +91 (79) 7152 4955</li>
+  <li>
+    IIM Ahmedabad 
+    <a href="https://iima.ac.in/faculty-research/faculty-directory/tarun-jain" target="_blank">
+      Faculty webpage
+    </a>
+  </li>
+  <li>
+    Office location: 54 KLMDC, IIM Ahmedabad, Dr. Vikram Sarabhai Marg, Ahmedabad GJ 380015 India
+  </li>
+  <li>
+    Social media: 
+    <a href="http://in.linkedin.com/in/tjain01" target="_blank">LinkedIn</a>, 
+    <a href="http://twitter.com/Hyderabadi_chai" target="_blank">X</a>
+  </li>
+</ul>
 
-Faculty secretary: Shreya Mehta — shreyam [at] iima [dot] ac [dot] in
+<p style="font-size:0.95rem; margin-top:10px;">
+  Faculty secretary: Shreya Mehta — shreyam [at] iima [dot] ac [dot] in
+</p>
