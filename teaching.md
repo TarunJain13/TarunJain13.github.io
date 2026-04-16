@@ -42,7 +42,6 @@ Healthcare Management</h2>
 - <span style="font-size:0.8rem;">[Link on IIMA Executive Education](https://exed.iima.ac.in/programme-details.php?id=MTIzMQ==)</span>
 - <span style="font-size:0.8rem;">[Video introducing the course](https://www.youtube.com/watch?v=ByGdWZLGOhE)</span>
 
-<br>
 
 <h2 style="color:#9b0f2f; font-size:0.8rem; border:none;">
 EdTech</h2>
@@ -53,14 +52,13 @@ EdTech</h2>
 
 <span style="font-size:0.8rem;">The classroom pedagogy is a combination of case study discussion and lectures. This pedagogical style only works if students arrive prepared for each class – having read the material, with questions and ideas for discussion. Of course, we try to maximize using technology in delivering education in the course!</span>
 
-<br>
+
 
 <h2 style="color:#9b0f2f; font-size:0.8rem; border:none;">
   Indian Economy
 </h2>
 <span style="font-size:0.8rem;">This is a 6 session introductory course on the vast Indian economy, covering topics that the instructor feels might be interesting to participants. We use a case-based methodology to discuss modern dilemmas that the economy faces, and debate approaches that an “economy manager” could take in improving equitable growth within the economy.</span>
 
-<br>
 
 <h2 style="color:#9b0f2f; font-size:0.8rem; border:none;">
 Information Economics</h2>
@@ -88,7 +86,6 @@ Information Economics</h2>
 Microeconomics</h2>
 
 <span style="font-size:0.8rem;">This 25 session MBA core course introduces the principles of microeconomics and their applications, assuming students have no prior knowledge of economics.</span>
-<br>
 
 
 
@@ -99,14 +96,12 @@ Organizational Economics</h2>
 
 - [<span style="font-size:0.8rem;">Course outline](https://drive.google.com/file/d/1syUNvEdTlLMuC7DKQfZ9Y0AAFGJNZ9E-/view?usp=sharing)</span>
 
-<br>
 
 
 <h2 style="color:#9b0f2f; font-size:0.8rem; border:none;">
 Health Economics</h2>
 
 <span style="font-size:0.8rem;">This 15 session MBA elective uses economics lens to examine the healthcare sector, including topics such as public health, primary and tertiary care, public versus private provision of healthcare, productivity of personnel and operations, and third-party financing of healthcare provision.</span>
-<br>
 
 <h2 style="color:#9b0f2f; font-size:0.8rem; border:none;">
 Managerial Economics</h2>
@@ -116,7 +111,6 @@ Managerial Economics</h2>
 - <span style="font-size:0.8rem;">[Course outline](https://drive.google.com/file/d/1e5yJzupH8oqGq_B0N1GWo71VpUWMPTr1/view?usp=sharing)</span>
 - <span style="font-size:0.8rem;">[Videos on quantitative tools for economics](https://drive.google.com/drive/folders/10RjKG-dLoYkWt3-GtRM_5PUAKKebrxmr?usp=sharing)</span>
 
-<br>
 
 
 <h2 style="color:#9b0f2f; font-size:0.8rem; border:none;">
@@ -126,7 +120,7 @@ Economic Data and Program Analysis</h2>
 
 - <span style="font-size:0.8rem;">[Course outline](https://drive.google.com/file/d/1vNqFl32hN4RAnBO6hkmSndkMuaV_bgQS/view?usp=sharing)</span>
 
-<br>
+
 
 
 <h2 style="color:#9b0f2f; font-size:0.8rem; border:none;">
