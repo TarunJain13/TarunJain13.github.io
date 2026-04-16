@@ -74,7 +74,7 @@ classes: wide
 <h3 style="color:#9b0f2f; font-size:0.8rem; margin-bottom:8px;">
   Contact Information
 </h3>
-<ul style="font-size:1rem; line-height:1.6; padding-left:18px; margin-top:8px;">
+<ul style="font-size:0.8rem; line-height:1.6; padding-left:18px; margin-top:8px;">
   <li>Email: tarunj [at] iima [dot] ac [dot] in</li>
   <li>Phone: +91 (79) 7152 4955</li>
   <li>
