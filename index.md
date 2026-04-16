@@ -31,7 +31,7 @@ classes: wide
 
 
 ---
-<div style="margin:28px 0 0 0; font-size:1rem; line-height:1.7;">
+<div style="margin:28px 0 0 0; font-size:10.8rem; line-height:1.7;">
    <p><strong>Tarun Jain</strong> is the Reserve Bank of India Chair Professor in Economics at the <a href="https://www.iima.ac.in/">Indian Institute of Management Ahmedabad</a>.</p>
 
   <p>Professor Jain’s research focuses on understanding causes and consequences of human capital formation (for instance, with education and health), especially in the context of fast-growing developing countries. Gender is a topic of special research interest given that women face persistent barriers in economic advancement. His research has received funding from the Gates Foundation, the International Growth Centre, and the International Initiative for Impact Evaluation, published in peer-reviewed journals such as the American Economic Review, Information Systems Research, Review of Economics and Statistics and Journal of Public Economics, and featured in the New York Times, The Economist, the Times of India and Indian Express. He has written for media outlets such as the Economic Times, The Hindu and Mint, among others. The Indian Econometric Society awarded him the Mahalanobis Memorial Medal for “outstanding contributions to quantitative economics, while working in India”.</p>
