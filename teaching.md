@@ -68,7 +68,7 @@ layout: single
 - <span style="font-size:0.8rem;">[Video introduction](https://drive.google.com/file/d/1DDZAHJcmp0q0Er8nRPWVrUCVJU_7LeFX/view?usp=sharing)</span>
 - <span style="font-size:0.8rem;">[Veconlab online experiments](http://veconlab.econ.virginia.edu/)</span>
 - <span style="font-size:0.8rem;">Slides (2019)</span>
- <ol style="margin-top:6px; padding-left:18px; font-size:0.8rem;">
+ <ol style="margin-top:10px; margin-bottom:6px; padding-left:32px; font-size:0.8rem;">
     <li><a href="https://drive.google.com/file/d/1dgTAW7U3PlKydasxvYfI_CI5C_gydEdZ/">Revision of Game Theory</a></li>
     <li><a href="https://drive.google.com/file/d/1AgIWjeBItu8aYuQJdfg3nypiQCaYnn2P/view?usp=sharing">Hidden Information, Market Breakdown and Remedies</a></li>
     <li><a href="https://drive.google.com/file/d/1il7YObGlARWy8fKQljCftDZgIO9dgMed/view?usp=sharing">Information Acquisition</a></li>
