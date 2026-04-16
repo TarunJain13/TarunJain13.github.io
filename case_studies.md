@@ -3,7 +3,35 @@ title: "Case Studies"
 permalink: /case-studies/
 layout: single
 ---
+<style>
+  /* Remove all side padding/margins from the theme wrappers */
+  .page__inner-wrap,
+  .page__content,
+  #main,
+  .page,
+  .layout--single {
+    max-width: 100% !important;
+    width: 100% !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    float: none !important;
+  }
 
+  /* Add comfortable reading padding back on the content itself */
+  .page__content {
+    padding-left: 2rem !important;
+    padding-right: 2rem !important;
+  }
+
+  /* Kill the grid container restriction */
+  .page__hero--overlay .page__title,
+  .initial-content,
+  .search-content {
+    max-width: 100% !important;
+  }
+</style>
 
 ## <span style="color:#9b0f2f;">Case studies</span>
 
