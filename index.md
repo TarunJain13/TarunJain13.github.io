@@ -80,11 +80,11 @@ classes: wide
     </p>
 
     <p style="margin:18px 0 0 0; font-size:0.9rem; font-weight:700;">
-      <a href="https://www.dropbox.com/scl/fi/cpkos4s1a64hvh0tp70q3/JainCV.pdf?rlkey=tv656e0d2rkljje139pitnq83&st=vdeemz7l&dl=0" style="text-decoration:underline;">Curriculum Vitae</a>
+      <a href="https://www.dropbox.com/scl/fi/cpkos4s1a64hvh0tp70q3/JainCV.pdf?rlkey=tv656e0d2rkljje139pitnq83&st=vdeemz7l&dl=0" style="text-decoration:underline; color:#ffffff;">Curriculum Vitae</a>
     </p>
 
     <p style="margin:10px 0 0 0; font-size:0.9rem; font-weight:700;">
-      <a href="/assets/images/IIMA_Portrait.jpg" style="text-decoration:underline;">Photo</a>
+      <a href="/assets/images/IIMA_Portrait.jpg" style="text-decoration:underline; color:#ffffff;">Photo</a>
     </p>
   </div>
 </div>
