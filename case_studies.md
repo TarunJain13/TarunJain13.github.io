@@ -49,6 +49,8 @@ layout: single
   /* Fix nav bar to stay dark */
   .masthead {
     background-color: #1a1a2e !important;
+    border-bottom: none !important;
+    box-shadow: none !important;
   }
        /* Fix the inner masthead box color to match outer */
   .masthead__inner-wrap {
