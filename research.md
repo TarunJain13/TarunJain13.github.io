@@ -58,7 +58,7 @@ layout: single
     text-decoration: underline !important;
   }
   .page__content ul {
-  margin-top: -0.8em !important;
+  margin-top: -0.1em !important;
 }
 
   /* Fix nav bar to stay dark */
