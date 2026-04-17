@@ -59,9 +59,24 @@ classes: wide
   .initial-content a {
     color: #111111 !important;
   }
-  /* Fix nav bar to stay dark */
+  #main {
+    padding-top: 0 !important;
+    margin-top: 0 !important;
+  }
+  .page__content a,
+  .initial-content a {
+    color: #111111 !important;
+  }
   .masthead {
     background-color: #111111 !important;
+    margin: 0 !important;
+    padding-left: 2rem !important;
+    padding-right: 2rem !important;
+  }
+  .masthead__inner-wrap {
+    max-width: 100% !important;
+    padding: 0 !important;
+    margin: 0 !important;
   }
 </style>
 <div class="hero-block">
