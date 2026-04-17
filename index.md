@@ -41,7 +41,7 @@ classes: wide
     background-color: #111111 !important; /* or whatever dark color your theme uses */
     color: #ffffff !important;
     padding: 2rem;
-    margin-top: -1px !important;
+    margin-top: -20px !important;
     margin-left: -2rem !important;
     margin-right: -2rem !important;
   }
