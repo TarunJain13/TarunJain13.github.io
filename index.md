@@ -50,7 +50,10 @@ classes: wide
     background-color: #ffffff !important;
     color: #111111 !important;
   }
-
+  /* Fix nav bar to stay dark */
+  .masthead {
+    background-color: #111111 !important;
+  }
 </style>
 <div class="hero-block">
   <div style="display:flex; gap:28px; align-items:flex-start; flex-wrap:wrap; margin-top:8px;">
