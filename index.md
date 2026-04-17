@@ -20,7 +20,7 @@ classes: wide
   }
 
   /* Add comfortable reading padding back on the content itself */
-  .page__content {
+/*  .page__content {
     padding-left: 2rem !important;
     padding-right: 2rem !important;
   }
@@ -41,7 +41,6 @@ classes: wide
   .hero-block {
     background-color: #1a1a2e !important; /* or whatever dark color your theme uses */
     color: #ffffff !important;
-    padding: 2rem;
   }
 
   /* Make sure links in the dark block stay light */
