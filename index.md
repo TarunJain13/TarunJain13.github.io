@@ -19,8 +19,8 @@ classes: wide
     float: none !important;
   }
   .page__content {
-    padding-left: 2rem !important;
-    padding-right: 2rem !important;
+    padding-left: 1rem !important;
+    padding-right: 1rem !important;
   }
   .page__hero--overlay .page__title,
   .initial-content,
