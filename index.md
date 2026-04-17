@@ -41,10 +41,7 @@ classes: wide
     padding: 2rem;
   }
 
-  /* Make sure links in the dark block stay light */
-  .hero-block a {
-    color: #4dd0c4 !important; /* teal, matching your screenshot */
-  }
+
 
   /* White background for the rest of the page content */
   #main,
