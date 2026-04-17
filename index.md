@@ -39,8 +39,8 @@ classes: wide
 
   /* Keep the top profile block dark */
   .hero-block {
-    background-color: #1a1a2e !important; /* or whatever dark color your theme uses */
-    color: #ffffff !important;
+    background-color: #ffffff !important; /* or whatever dark color your theme uses */
+    color: #1a1a2e !important;
   }
 
 
