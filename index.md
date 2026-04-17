@@ -41,8 +41,10 @@ classes: wide
     padding: 2rem;
   }
 
-  /* Links in the dark hero block — white */
-  .hero-block a {
+  .hero-block a,
+  .hero-block a:link,
+  .hero-block a:visited,
+  .hero-block a:hover {
     color: #ffffff !important;
   }
 
@@ -80,11 +82,11 @@ classes: wide
     </p>
 
     <p style="margin:18px 0 0 0; font-size:0.9rem; font-weight:700;">
-      <a href="https://www.dropbox.com/scl/fi/cpkos4s1a64hvh0tp70q3/JainCV.pdf?rlkey=tv656e0d2rkljje139pitnq83&st=vdeemz7l&dl=0" style="text-decoration:underline; color:#ffffff;">Curriculum Vitae</a>
+      <a href="https://www.dropbox.com/scl/fi/cpkos4s1a64hvh0tp70q3/JainCV.pdf?rlkey=tv656e0d2rkljje139pitnq83&st=vdeemz7l&dl=0" style="text-decoration:underline;">Curriculum Vitae</a>
     </p>
 
     <p style="margin:10px 0 0 0; font-size:0.9rem; font-weight:700;">
-      <a href="/assets/images/IIMA_Portrait.jpg" style="text-decoration:underline; color:#ffffff;">Photo</a>
+      <a href="/assets/images/IIMA_Portrait.jpg" style="text-decoration:underline;">Photo</a>
     </p>
   </div>
 </div>
