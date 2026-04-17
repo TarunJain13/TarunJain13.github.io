@@ -156,7 +156,7 @@ The case analyses the impact of introducing fee caps on education services in th
       <strong>IIM Ahmedabad Case</strong> <em>IIMA/CMHS0046TEC</em>, with Pallavi Wats.
     </p>
 
-    <p style="margin:0; line-height:1.6;">
+    <p style="margin:0; line-height:1.6; font-size:0.8rem;">
 India has the highest burden of soil-transmitted helminth infections globally, with 430 million children at risk of parasitic intestinal worms. This note analyses the impact of the Primary School Deworming Project (PSDP) in Kenya from 1998 to 2020. In the first follow-up, students were healthier and stayed in school longer. Twenty years later, participants who received the deworming treatment in the early years of PSDP experienced a substantial increase in adult consumption, hourly earnings and nonfarm employment. These significant adult outcomes make deworming an incredibly cost-effective solution for a pill costing about USD 0.45 per child per year. The COVID-19 pandemic confronts policymakers with a challenge: Since educational institutions are closed, how will the government deliver the deworming treatment? 
 </p>
 
