@@ -44,6 +44,11 @@ layout: single
     background-color: #ffffff !important;
     color: #111111 !important;
   }
+      /* Links in the body content — dark */
+  .page__content a,
+  .initial-content a {
+    color: #111111 !important;
+  }
 
   /* Fix nav bar to stay dark */
   .masthead {
