@@ -49,8 +49,6 @@ layout: single
   /* Fix nav bar to stay dark */
   .masthead {
     background-color: #111111 !important;
-    border-bottom: none !important;
-    box-shadow: none !important;
   }
        /* Fix the inner masthead box color to match outer */
   .masthead__inner-wrap {
@@ -71,7 +69,7 @@ layout: single
   }
 </style>
 
-## <span style="color:#9b0f2f;">Case studies</span>
+## <span style="color:#9b0f2f; font-size:2.5rem;">Case studies</span>
 
 
 <div style="display:flex; gap:28px; align-items:flex-start; margin-top:36px;">
