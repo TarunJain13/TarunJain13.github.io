@@ -52,6 +52,9 @@ layout: single
     color: #111111 !important;
     text-decoration: underline !important;
   }
+  .page__content ul {
+  margin-top: -0.8em !important;
+}
 
   /* Fix nav bar to stay dark */
   .masthead {
