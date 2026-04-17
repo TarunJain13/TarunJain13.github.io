@@ -83,7 +83,7 @@ layout: single
     padding-top: 0 !important;
   }
 </style>
-## <span style="color:#9b0f2f;">Research</span>
+## <span style="color:#9b0f2f; font-size:2.5rem;">Research</span>
 
 <h2 style="color:#9b0f2f; font-size:1.05rem; border:none;">
 Research Fields</h2>
