@@ -38,7 +38,6 @@ classes: wide
   .hero-block {
     background-color: #111111 !important; /* or whatever dark color your theme uses */
     color: #ffffff !important;
-    padding: 2rem;
   }
 
 
