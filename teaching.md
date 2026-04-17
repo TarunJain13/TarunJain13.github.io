@@ -49,6 +49,9 @@ layout: single
   .initial-content a {
     color: #111111 !important;
   }
+  .page__content ul {
+  margin-top: -0.1em !important;
+}
   /* Fix nav bar to stay dark */
   .masthead {
     background-color: #1a1a2e !important;
@@ -72,7 +75,7 @@ layout: single
   }
 </style>
 
-## <span style="color:#9b0f2f;">Teaching</span>
+## <span style="color:#9b0f2f; font-size:2.5rem;">Teaching</span>
 
 <h2 style="color:#9b0f2f; font-size:0.8rem; border:none;">
 Healthcare Management</h2>
