@@ -39,6 +39,8 @@ classes: wide
     background-color: #111111 !important; /* or whatever dark color your theme uses */
     color: #ffffff !important;
     padding: 2rem;
+    margin-left: -2rem !important;
+    margin-right: -2rem !important;
   }
 
   /* Links in the dark hero block — white */
