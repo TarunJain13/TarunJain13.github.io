@@ -36,7 +36,7 @@ classes: wide
 
   /* Keep the top profile block dark */
   .hero-block {
-    background-color: #1a1a2e !important; /* or whatever dark color your theme uses */
+    background-color: #111111 !important; /* or whatever dark color your theme uses */
     color: #ffffff !important;
     padding: 2rem;
   }
@@ -56,7 +56,7 @@ classes: wide
 
   /* Fix nav bar to stay dark */
   .masthead {
-    background-color: #1a1a2e !important;
+    background-color: #111111 !important;
   }
 </style>
 <div class="hero-block">
