@@ -53,6 +53,23 @@ layout: single
   .masthead {
     background-color: #1a1a2e !important;
   }
+       /* Fix the inner masthead box color to match outer */
+  .masthead__inner-wrap {
+    background-color: #111111 !important;
+    border-bottom: none !important;
+    box-shadow: none !important;
+  }
+
+  /* Remove the grepper/sticky bar gap if present */
+  .greedy-nav {
+    background-color: #111111 !important;
+  }
+
+  /* Kill the white gap below masthead */
+  .initial-content {
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+  }
 </style>
 
 ## <span style="color:#9b0f2f;">Teaching</span>
