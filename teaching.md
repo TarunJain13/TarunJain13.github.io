@@ -49,9 +49,7 @@ layout: single
   .initial-content a {
     color: #111111 !important;
   }
-  .page__content ul {
-  margin-top: -0.1em !important;
-}
+
   /* Fix nav bar to stay dark */
   .masthead {
     background-color: #111111 !important;
