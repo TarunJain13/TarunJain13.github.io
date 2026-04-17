@@ -58,7 +58,7 @@ layout: single
 
   /* Fix nav bar to stay dark */
   .masthead {
-    background-color: #1a1a2e !important;
+    background-color: #111111 !important;
   }
      /* Fix the inner masthead box color to match outer */
   .masthead__inner-wrap {
@@ -79,7 +79,7 @@ layout: single
   }
 </style>
 
-## <span style="color:#9b0f2f;">Media Contributions</span>
+## <span style="color:#9b0f2f; font-size:2.5rem;">Media Contributions</span>
 
 ### <span style="color:#9b0f2f; text-decoration:underline; font-size:0.8rem;">[Weaving through generations: Productivity gains in family-owned businesses in rural India](https://www.ideasforindia.in/topics/productivity-innovation/weaving-through-generations-productivity-gains-in-family-owned-businesses-in-rural-india.html)</span>
 <span style="font-size:0.8rem;">**Ideas for India**, February 1, 2024 with Shreya Banerjee, Aastha Dang, Jane Hammaker, Chandan Jain, Divya Pandey and Fatema Patel.</span>
