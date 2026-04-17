@@ -117,10 +117,12 @@ layout: single
 
 ### <span style="color:#9b0f2f; text-decoration:underline; font-size:0.8rem;">[The language of learning](https://www.theindiaforum.in/article/language-learning)</span>
 <span style="font-size:0.8rem;">**The India Forum**, April 5, 2019.
+<br style="line-height:0.5;">
 Hindi translation by Aditi Singh: [शिक्षा में भाषा की भूमिका](https://drive.google.com/file/d/1CUlxqemqeKTcvRvFwAPv5lnBT9UFi9sv/view?usp=sharing)</span>
 
 ### <span style="color:#9b0f2f; text-decoration:underline; font-size:0.8rem;">[Panel discussion: Does Ayushman Bharat address the issues of healthcare delivery in Bihar?](https://www.ideasforindia.in/topics/human-development/panel-discussion-does-ayushman-bharat-address-the-issues-of-healthcare-delivery-in-bihar.html)</span>
 <span style="font-size:0.8rem;">**Ideas for India**, February 1, 2019.
+<br>
 [Event video](https://www.youtube.com/watch?v=XujdCfKi4Ic)</span>
 
 ### <span style="color:#9b0f2f; text-decoration:underline; font-size:0.8rem;">[Designing India's national healthcare protection: Challenges and opportunities](http://www.ideasforindia.in/topics/human-development/designing-india-s-national-healthcare-protection-challenges-and-opportunities.html)</span>
@@ -128,6 +130,7 @@ Hindi translation by Aditi Singh: [शिक्षा में भाषा क
 
 ### <span style="color:#9b0f2f; text-decoration:underline; font-size:0.8rem;">[Common tongue? How mother tongue instruction influences education](https://www.ideasforindia.in/topics/macroeconomics/common-tongue-how-mother-tongue-instruction-influences-education.html)</span>
 <span style="font-size:0.8rem;">**Ideas for India**, February 27, 2017, with Revathy Suryanarayana.
+<br style="line-height:0.5;">
 Hindi: [जनभाषा? मातृभाषा में पढ़ाई शिक्षा को कैसे प्रभावित करती है](https://www.ideasforindia.in/topics/human-development/common-tongue-how-mother-tongue-instruction-influences-education-hindi.html), Ideas for India, June 12, 2019.</span>
 
 ### <span style="color:#9b0f2f; text-decoration:underline; font-size:0.8rem;">[Bringing the sheen back to teaching](http://www.newindianexpress.com/opinions/2016/oct/08/bringing-the-sheen-back-to-teaching-1526025.html)</span>
