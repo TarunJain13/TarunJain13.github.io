@@ -41,6 +41,7 @@ classes: wide
     background-color: #111111 !important; /* or whatever dark color your theme uses */
     color: #ffffff !important;
     padding: 2rem;
+    margin-top: -1px !important;
     margin-left: -2rem !important;
     margin-right: -2rem !important;
   }
@@ -71,15 +72,8 @@ classes: wide
   }
   .masthead {
     background-color: #111111 !important;
-    margin: 0 !important;
-    padding-left: 2rem !important;
-    padding-right: 2rem !important;
   }
-  .masthead__inner-wrap {
-    max-width: 100% !important;
-    padding: 0 !important;
-    margin: 0 !important;
-  }
+
 </style>
 <div class="hero-block">
   <div style="display:flex; gap:28px; align-items:flex-start; flex-wrap:wrap; margin-top:8px;">
