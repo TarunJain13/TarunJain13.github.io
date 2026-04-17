@@ -41,13 +41,21 @@ classes: wide
     padding: 2rem;
   }
 
-
+  /* Links in the dark hero block — white */
+  .hero-block a {
+    color: #ffffff !important;
+  }
 
   /* White background for the rest of the page content */
   #main,
   .page__content,
   .initial-content {
     background-color: #ffffff !important;
+    color: #111111 !important;
+  }
+    /* Links in the body content — dark */
+  .page__content a,
+  .initial-content a {
     color: #111111 !important;
   }
   /* Fix nav bar to stay dark */
