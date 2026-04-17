@@ -21,6 +21,8 @@ classes: wide
   .page__content {
     padding-left: 2rem !important;
     padding-right: 2rem !important;
+    padding-top: 0 !important;
+    margin-top: 0 !important;
   }
   .page__hero--overlay .page__title,
   .initial-content,
