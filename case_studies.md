@@ -48,7 +48,7 @@ layout: single
 
   /* Fix nav bar to stay dark */
   .masthead {
-    background-color: #1a1a2e !important;
+    background-color: #111111 !important;
     border-bottom: none !important;
     box-shadow: none !important;
   }
