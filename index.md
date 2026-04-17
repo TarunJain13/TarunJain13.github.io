@@ -4,7 +4,7 @@ title: ""
 classes: wide
 ---
 <style>
-  /* Remove all side padding/margins from the theme wrappers */
+  /* === YOUR EXISTING STYLES === */
   .page__inner-wrap,
   .page__content,
   #main,
@@ -18,20 +18,17 @@ classes: wide
     margin-right: 0 !important;
     float: none !important;
   }
-
-  /* Add comfortable reading padding back on the content itself */
-/*  .page__content {
+  .page__content {
     padding-left: 2rem !important;
     padding-right: 2rem !important;
   }
-
-  /* Kill the grid container restriction */
   .page__hero--overlay .page__title,
   .initial-content,
   .search-content {
     max-width: 100% !important;
   }
-    /* === NEW: White background for everything except the top hero block === */
+
+  /* === NEW: White background for everything except the top hero block === */
   body {
     background-color: #ffffff !important;
     color: #111111 !important;
@@ -39,18 +36,22 @@ classes: wide
 
   /* Keep the top profile block dark */
   .hero-block {
-    background-color: #ffffff !important; /* or whatever dark color your theme uses */
-    color: #1a1a2e !important;
+    background-color: #1a1a2e !important; /* or whatever dark color your theme uses */
+    color: #ffffff !important;
+    padding: 2rem;
   }
 
-
+  /* Make sure links in the dark block stay light */
+  .hero-block a {
+    color: #4dd0c4 !important; /* teal, matching your screenshot */
+  }
 
   /* White background for the rest of the page content */
   #main,
   .page__content,
   .initial-content {
-    background-color: #1a1a2e !important;
-    color: #ffffff !important;
+    background-color: #ffffff !important;
+    color: #111111 !important;
   }
 
   /* Fix nav bar to stay dark */
