@@ -43,17 +43,14 @@ classes: wide
     color: #ffffff !important;
   }
 
-  /* Make sure links in the dark block stay light */
-  .hero-block a {
-    color: #4dd0c4 !important; /* teal, matching your screenshot */
-  }
+
 
   /* White background for the rest of the page content */
   #main,
   .page__content,
   .initial-content {
-    background-color: #ffffff !important;
-    color: #111111 !important;
+    background-color: #1a1a2e !important;
+    color: #ffffff !important;
   }
 
   /* Fix nav bar to stay dark */
