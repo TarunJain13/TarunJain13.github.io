@@ -73,6 +73,21 @@ classes: wide
   .masthead {
     background-color: #111111 !important;
   }
+    /* Fix the inner masthead box color to match outer */
+  .masthead__inner-wrap {
+    background-color: #111111 !important;
+  }
+
+  /* Remove the grepper/sticky bar gap if present */
+  .greedy-nav {
+    background-color: #111111 !important;
+  }
+
+  /* Kill the white gap below masthead */
+  .initial-content {
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+  }
 
 </style>
 <div class="hero-block">
