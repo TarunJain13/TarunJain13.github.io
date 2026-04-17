@@ -39,6 +39,19 @@ layout: single
     background-color: #ffffff !important;
     color: #111111 !important;
   }
+    /* Heading links — red */
+  .page__content h3 a,
+  .page__content h3 span a {
+    color: #9b0f2f !important;
+    text-decoration: underline !important;
+  }
+
+  /* Bullet/inline links — dark */
+  .page__content li a,
+  .page__content p a {
+    color: #111111 !important;
+    text-decoration: underline !important;
+  }
 
   /* Fix nav bar to stay dark */
   .masthead {
