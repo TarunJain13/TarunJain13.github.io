@@ -71,6 +71,66 @@ layout: single
 
 ## <span style="color:#9b0f2f; font-size:2.5rem;">Case studies</span>
 
+<div style="display:flex; gap:28px; align-items:flex-start; margin-top:36px;">
+
+  <div style="flex:0 0 140px;">
+    <img src="/assets/images/iima case centre.jpg"
+         alt="IIMA Case Centre"
+         style="width:140px; border:1px solid #ddd;" />
+  </div>
+
+  <!-- RIGHT: Case details -->
+  <div style="flex:1;">
+
+    <h3 style="margin:0 0 10px 0; font-size:0.8rem;">
+      <a href="https://cases.iima.ac.in/index.php/air-india-171-gujarat-health-system-response-to-an-air-disaster.html"
+         target="_blank"
+         style="color:#9b0f2f; text-decoration:underline;">
+        Air India 171: Gujarat Health System Response to an Air Disaster
+      </a>
+    </h3>
+
+    <p style="margin:0 0 12px 0; font-size:0.8rem;">
+      <strong>IIM Ahmedabad Case</strong> <em>IIMA/CMHS0050</em>, with	Viswanath Pingali and Veda V.R. 
+    </p>
+
+    <p style="margin:0; font-size:0.8rem; line-height:1.6;">
+      This case examines the multilayered emergency response to the Air India plane crash in Ahmedabad on June 12, 2025, which resulted in 260 fatalities. The narrative follows the initial hours through the subsequent weeks, centring on Civil Hospital as the operational hub for trauma care, mass fatality management, family assistance and public communication. It traces how the system moved from rescue and triage to identification and dignified handover of the dead bodies. Through interviews with 20 officials and responders, the case illustrates the gap between preparedness on paper and performance under real-time constraints, the importance of inter-agency coordination and the challenges of crisis response in an age of real-time public visibility.
+    </p>
+
+  </div>
+</div>
+
+
+<div style="display:flex; gap:28px; align-items:flex-start; margin-top:36px;">
+
+  <div style="flex:0 0 140px;">
+    <img src="/assets/images/iima case centre.jpg"
+         alt="IIMA Case Centre"
+         style="width:140px; border:1px solid #ddd;" />
+  </div>
+
+  <!-- RIGHT: Case details -->
+  <div style="flex:1;">
+
+    <h3 style="margin:0 0 10px 0; font-size:0.8rem;">
+      <a href="https://cases.iima.ac.in/index.php/ayushman-bharat-the-promise-of-healthcare-for-all.html"
+         target="_blank"
+         style="color:#9b0f2f; text-decoration:underline;">
+        Ayushman Bharat - The Promise of Healthcare For All
+      </a>
+    </h3>
+
+    <p style="margin:0 0 12px 0; font-size:0.8rem;">
+      <strong>IIM Ahmedabad Case</strong> <em>IIMA/ECO0370</em>, with	Mohammad Irfan T., Yash Kamath and Veda V.R. 
+    </p>
+
+    <p style="margin:0; font-size:0.8rem; line-height:1.6;">
+      The case describes the evolution, design, implementation challenges and policy dilemmas of India’s Ayushman Bharat Pradhan Mantri Jan Arogya Yojana (PM-JAY), the world’s largest publicly financed health insurance programme. Through the narratives of Rani, a beneficiary struggling to access care, and Nisha Kumari, a policymaker preparing recommendations for a meeting, the case examines tensions associated with cost sustainability, provider participation, accessibility inequities, fraud and the prospective expansion of the scheme, particularly the debate on inclusion of outpatient coverage and enhancement of quality oversight. The case also reveals that demographic pressures, shifting disease burdens and difference in federal implementation can play a role in the strategic decisions made for the future of the programme.
+    </p>
+
+  </div>
+</div>
 
 <div style="display:flex; gap:28px; align-items:flex-start; margin-top:36px;">
 
