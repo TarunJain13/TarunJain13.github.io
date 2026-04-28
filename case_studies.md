@@ -83,6 +83,37 @@ layout: single
   <div style="flex:1;">
 
     <h3 style="margin:0 0 10px 0; font-size:0.8rem;">
+      <a href="https://cases.iima.ac.in/index.php/dr-lal-pathlabs-sustaining-growth-in-a-changing-diagnostics-landscape.html"
+         target="_blank"
+         style="color:#9b0f2f; text-decoration:underline;">
+        Dr. Lal PathLabs: Sustaining Growth in a Changing Diagnostics Landscape
+      </a>
+    </h3>
+
+    <p style="margin:0 0 12px 0; font-size:0.8rem;">
+      <strong>IIM Ahmedabad Case</strong> <em>IIMA/ECO0372</em>, with	Om Manchanda and Shreya Sam. 
+    </p>
+
+    <p style="margin:0; font-size:0.8rem; line-height:1.6;">
+      Dr Lal PathLabs (DLPL) became one of India’s largest diagnostic service providers, building scale through a hub-and-spoke model, a broad franchise network and sustained investments in quality, automation and professional management. Over time, it evolved from a family-led laboratory into a publicly listed company with strong financial performance and regional dominance in north and east India. However, the diagnostics industry was changing. Demand was increasingly shaped by self-initiated and preventive testing, while digital platforms, hospitals and wellness ecosystems altered how consumers accessed diagnostic services. At the same time, expansion into western and southern India posed structural challenges. The case examines how the DLPL should approach future growth and scope decisions while preserving the operating discipline and trust that underpinned its success.
+    </p>
+
+  </div>
+</div>
+
+
+<div style="display:flex; gap:28px; align-items:flex-start; margin-top:36px;">
+
+  <div style="flex:0 0 140px;">
+    <img src="/assets/images/iima case centre.jpg"
+         alt="IIMA Case Centre"
+         style="width:140px; border:1px solid #ddd;" />
+  </div>
+
+  <!-- RIGHT: Case details -->
+  <div style="flex:1;">
+
+    <h3 style="margin:0 0 10px 0; font-size:0.8rem;">
       <a href="https://cases.iima.ac.in/index.php/air-india-171-gujarat-health-system-response-to-an-air-disaster.html"
          target="_blank"
          style="color:#9b0f2f; text-decoration:underline;">
