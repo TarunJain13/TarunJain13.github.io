@@ -83,6 +83,37 @@ layout: single
   <div style="flex:1;">
 
     <h3 style="margin:0 0 10px 0; font-size:0.8rem;">
+      <a href="https://cases.iima.ac.in/index.php/the-battle-for-the-bottle-defining-ors-in-the-indian-market.html"
+         target="_blank"
+         style="color:#9b0f2f; text-decoration:underline;">
+        The Battle for the Bottle: Defining ORS in the Indian Market
+      </a>
+    </h3>
+
+    <p style="margin:0 0 12px 0; font-size:0.8rem;">
+      <strong>IIM Ahmedabad Case</strong> <em>IIMA/ECO0371</em>. 
+    </p>
+
+    <p style="margin:0; font-size:0.8rem; line-height:1.6;">
+This case examines a dilemma faced by a public official at the Food Safety and Standards Authority of India (FSSAI). The protagonist, “Dr Ravinder Sharma, Director of Quality Assurance at FSSAI,” has to decide how to respond to a court order staying coercive action against manufacturers of ready-to-drink sugary beverages marketed using the term “ORS”. Although classified as food products, these beverages are widely perceived as equivalent to the WHO-recommended oral rehydration solution (ORS), a life-saving medical therapy for acute diarrhoeal dehydration. The central question is how to balance competing concerns: public health, particularly risks to children highlighted by the medical community, information asymmetry in healthcare markets (where consumers may not fully understand labels), economic consequences for industry, and legal constraints, including regulatory credibility and procedural fairness, in determining the appropriate regulatory approach to such beverages.
+
+    </p>
+
+  </div>
+</div>
+
+<div style="display:flex; gap:28px; align-items:flex-start; margin-top:36px;">
+
+  <div style="flex:0 0 140px;">
+    <img src="/assets/images/iima case centre.jpg"
+         alt="IIMA Case Centre"
+         style="width:140px; border:1px solid #ddd;" />
+  </div>
+
+  <!-- RIGHT: Case details -->
+  <div style="flex:1;">
+
+    <h3 style="margin:0 0 10px 0; font-size:0.8rem;">
       <a href="https://cases.iima.ac.in/index.php/dr-lal-pathlabs-sustaining-growth-in-a-changing-diagnostics-landscape.html"
          target="_blank"
          style="color:#9b0f2f; text-decoration:underline;">
