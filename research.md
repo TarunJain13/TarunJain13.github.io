@@ -96,10 +96,10 @@ Research Fields</h2>
 <h2 style="color:#9b0f2f; font-size:1.05rem; border:none;">
 Working Papers</h2>
 
-- <span style="font-size:0.8rem;">[Heat stress and hospitalization in India](Heat stress and hospitalization in India), with Abhishek Dureja.</span>
+- <span style="font-size:0.8rem;"><a href="https://zenodo.org/records/21907665">Heat and Healthcare Utilization in the Tropics: Evidence from India</a>, with Abhishek Dureja.</span>
 - <span style="font-size:0.8rem;">Gender, culture, and norms of equality, with Kalyani Chaudhuri, Lata Gangadharan and Pushkar Maitra.</span>
 - <span style="font-size:0.8rem;">Gender differences in tertiary healthcare utilization: Evidence from India, with Natasha Jha and Revathy Surya Narayana.</span>
-- <span style="font-size:0.8rem;">When science feels like math: Quantitative questions and the science gender gap, with Divyanshu Jain.</span>
+- <span style="font-size:0.8rem;"><a href="https://zenodo.org/records/21907671"> When science feels like math: Quantitative questions and the science gender gap</a>, with Divyanshu Jain.</span>
 
 
 
