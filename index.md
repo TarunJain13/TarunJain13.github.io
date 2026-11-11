@@ -1,7 +1,8 @@
 ---
 layout: single
-title: "Tarun Jain"
+title: "Home"
 classes: wide
+<style>.page__title { display: none; }</style>
 ---
 <style>
   /* === YOUR EXISTING STYLES === */
