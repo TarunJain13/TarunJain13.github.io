@@ -1,7 +1,9 @@
----
+<img width="2936" height="1744" alt="image" src="https://github.com/user-attachments/assets/e0ee5c21-049e-48be-832e-4a4861a80e2f" />---
 permalink: /media/
 layout: single
+title: "Media"
 ---
+<style>#page-title, .page__title { display: none !important; }</style>
 <style>
   .page__inner-wrap,
   .page__content,
