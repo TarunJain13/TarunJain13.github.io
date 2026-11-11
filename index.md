@@ -2,8 +2,8 @@
 layout: single
 title: "Home"
 classes: wide
-<style>.page__title { display: none; }</style>
 ---
+<style>#page-title, .page__title { display: none !important; }</style>
 <style>
   /* === YOUR EXISTING STYLES === */
   .page__inner-wrap,
