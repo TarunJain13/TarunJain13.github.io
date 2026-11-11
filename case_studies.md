@@ -4,7 +4,7 @@ layout: single
 title: "Case Studies"
 ---
 <style>#page-title, .page__title { display: none !important; }</style>
-7  <style>
+<style>
 <style>
   /* Remove all side padding/margins from the theme wrappers */
   .page__inner-wrap,
