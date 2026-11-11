@@ -1,6 +1,6 @@
 ---
 layout: single
-title: ""
+title: "Tarun Jain"
 classes: wide
 ---
 <style>
