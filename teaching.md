@@ -1,7 +1,9 @@
 ---
 permalink: /teaching/
 layout: single
+title: "Teaching"
 ---
+<style>#page-title, .page__title { display: none !important; }</style>
 <style>
   /* Remove all side padding/margins from the theme wrappers */
   .page__inner-wrap,
